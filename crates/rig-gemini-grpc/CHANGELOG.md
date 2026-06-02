@@ -27,6 +27,17 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ### Contributors
 
 * @gold-silver-copper
+## [0.38.1](https://github.com/0xPlaygrounds/rig/compare/rig-gemini-grpc-v0.2.7...rig-gemini-grpc-v0.38.1) - 2026-06-02
+
+### Other
+
+- release ([#1851](https://github.com/0xPlaygrounds/rig/pull/1851)) (by @github-actions[bot]) - #1851
+- unify workspace crate versions ([#1853](https://github.com/0xPlaygrounds/rig/pull/1853)) (by @gold-silver-copper) - #1853
+
+### Contributors
+
+* @github-actions[bot]
+* @gold-silver-copper
 
 ## [0.2.7](https://github.com/0xPlaygrounds/rig/compare/rig-gemini-grpc-v0.2.6...rig-gemini-grpc-v0.2.7) - 2026-06-02
 
